@@ -4,6 +4,3 @@
 ### Links Úteis
 [Download Dev-C++](https://sourceforge.net/projects/orwelldevcpp/)
 
-_________________________________________________________________
-
-MIT License.
